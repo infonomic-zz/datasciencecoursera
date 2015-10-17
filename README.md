@@ -1,7 +1,14 @@
 datasciencecoursera
 ===================
 
-The Data Scientist's Toolbox 
+### The Data Scientist's Toolbox 
 
 This course is part of the Data Science Specialization, 
 a sequence of nine massive open online courses (MOOCs) plus a Capstone project.
+
+Header | Definition
+---|---------
+`README.MD` | Thhis readme file 
+`HelloWorld.MD` | Hello World example
+
+Source: [Aviation Safety Network](http://aviation-safety.net)
